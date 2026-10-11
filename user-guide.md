@@ -8,8 +8,8 @@ Welcome to your new digital wellness companion! This guide will help you set up,
 
 ## 🚀 📋 Step 1: Getting Started
 
-1. Open the [Google Sheets Template Link](https://www.google.com/).
-2. Click **File ➔ Make a copy** to save the spreadsheet directly to your personal Google Drive. 💾✨
+1. Download Google Sheets Template.
+2. Upload the spreadsheet directly to your personal Google Drive. 💾✨
 3. Rename your file to something cute and personal (e.g., *My Wellness Journey 2026* 🌸).
 
 ---
